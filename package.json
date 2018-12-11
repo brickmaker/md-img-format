@@ -1,0 +1,25 @@
+{
+  "name": "md-img-format",
+  "version": "0.0.3",
+  "description": "Format image of markdown file using HTML style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "md-img-format": "./md-img-format",
+    "mif": "./md-img-format"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brickmaker/md-img-format.git"
+  },
+  "keywords": ["markdown", "cli"],
+  "author": "brickmaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brickmaker/md-img-format/issues"
+  },
+  "homepage": "https://github.com/brickmaker/md-img-format#readme"
+}
